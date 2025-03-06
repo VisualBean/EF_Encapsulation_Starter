@@ -1,0 +1,6 @@
+﻿services:
+  ef_encapsulation_starter:
+    image: ef_encapsulation_starter
+    build:
+      context: .
+      dockerfile: Dockerfile
